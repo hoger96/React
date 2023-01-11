@@ -1,0 +1,21 @@
+body{
+  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkoGs5Iayfw-tRdTEXAgJgL1T8m5cRCkldPw&usqp=CAU);
+  height:100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height:100vh;
+  flex-direction: column;
+}
+
+.weather-box{
+  border:3px solid white;
+  padding:50px;
+  border-radius: 30px;
+  background-color: azure;
+}
